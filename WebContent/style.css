@@ -1,0 +1,116 @@
+@charset "UTF-8";
+body{
+	margin:0;
+	padding:0;
+	background-image: url("image/bg1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment:fixed;
+}
+
+.linkcontainer{
+	margin-left:30%;
+	width:90%;
+	
+	height: 150px;
+	margin:90px auto;
+}
+.linkcontainer .linkbox{
+	width:250px;
+	height: 165px;
+	float:right;
+	border-radius:13px;
+	margin-right:10%;
+	display:inline;
+	overflow: hidden;
+}
+.linkcontainer .linkbox .content{
+	width:90%;
+	margin:15px auto;
+}
+.linkcontainer .linkbox .icon{
+	width:50%;
+	margin:3px auto;
+
+	
+}
+.linkcontainer .linkbox .icon img{
+	padding-left:15px;
+	height:80px;
+	width: 80px;
+	
+}
+
+.linkcontainer .linkbox .icon img:hover{
+transition: 0.5s;
+	transform: scale(1.5);
+	margin-top:25px;
+	
+}
+
+
+
+.linkcontainer .linkbox .content {
+	text-decoration: none;
+	color:white;
+	font-size:30px;
+	font-weight: bold;
+	
+	font-family: arial;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
