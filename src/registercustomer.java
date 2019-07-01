@@ -42,7 +42,7 @@ public class registercustomer extends HttpServlet {
 		Session sess= Session.getInstance(prop, new javax.mail.Authenticator()
 		{
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication(from,"java00000");}
+				return new PasswordAuthentication(from,"sorry i am unabel to disclose my password -puskal khadka");}
 		});
 		MimeMessage msg= new MimeMessage(sess);
 		msg.setFrom(new InternetAddress(from));
