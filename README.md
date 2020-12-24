@@ -1,7 +1,7 @@
 # Web Based ATM management system
 It has following features:<br/>
-2)Separate login for superuser, staff and customer<br>
 1)Account creation<br/>
+2)Separate login for superuser, staff and customer<br>
 2)Cash Deposit<br/>
 3)Cash Withdraw<br/>
 4)Password Change<br/>
